@@ -3,7 +3,7 @@
 ### ✔ Mi información:
 - Sitio web: [guillepaivag.web.app](https://guillepaivag.web.app)
 
-### ✔ Descripción:
+### ✔ Mi breve descripción:
 ~~~
 1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática.
 2. Soy JavaScript Junior.
