@@ -1,13 +1,3 @@
-
-<h1>Hola! Soy Guillermo Paiva.</h1>
-  
-<h3>✔ Mi información:</h3>
-  <ul>
-    <li><a href="https://guillepaivag.web.app" target:"_blank">guillepaivag.web.app</a></li>
-  </ul>
-
-
-<!-- 
 # Hola! Soy Guillermo Paiva.
 
 ### ✔ Mi información:
@@ -50,4 +40,3 @@ Firebase Authentication
 
 
 
--->
