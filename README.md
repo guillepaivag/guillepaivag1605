@@ -11,7 +11,7 @@
 VueJs - Bootstrap - BootstrapVue
 ~~~
 
-### ✔ Frameworks!
+### ✔ Back-End!
 ~~~
 Firebase Cloud Functions - ExpressJs
 ~~~
