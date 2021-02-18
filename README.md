@@ -15,7 +15,7 @@
 
 ### ✔ Front-End!
 ~~~
-VueJs - Bootstrap - BootstrapVue - Firebase Hosting
+HTML5 - CSS3 - VueJs - Bootstrap - BootstrapVue - Firebase Hosting
 ~~~
 
 ### ✔ Back-End!
