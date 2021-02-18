@@ -1,7 +1,17 @@
+<html>
+<head></head>
+
+<body>
+  <h1>Hola! Soy Guillermo Paiva.</h1>
+</body>
+</html>
+
+
+<!-- 
 # Hola! Soy Guillermo Paiva.
 
 ### ✔ Mi información:
-- Sitio web: [guillepaivag.web.app](https://guillepaivag.web.app)
+- Sitio web: [guillepaivag.web.app](https://guillepaivag.web.app){:target="_blank" rel="noopener"}
 
 ### ✔ Descripción:
 ~~~
@@ -32,3 +42,12 @@ Firebase Cloud Firestore - MongoDB - MySQL
 ~~~
 Firebase Authentication
 ~~~
+
+
+
+
+
+
+
+
+-->
