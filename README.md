@@ -1,10 +1,10 @@
-<html>
-<head></head>
 
-<body>
-  <h1>Hola! Soy Guillermo Paiva.</h1>
-</body>
-</html>
+<h1>Hola! Soy Guillermo Paiva.</h1>
+  
+<h3>✔ Mi información:</h3>
+  <ul>
+    <li><a href="https://guillepaivag.web.app" target:"_blank">guillepaivag.web.app</a></li>
+  </ul>
 
 
 <!-- 
