@@ -6,17 +6,22 @@
 - Actualmente me estoy formando en CSS, NodeJs y MongoDB junto a Firebase.
 - Aspiro a ser Full Stack(MEN) y JavaScript Tech Lead.
 
+### ✔ Front-End!
+~~~
+VueJs - Bootstrap - BootstrapVue
+~~~
+
 ### ✔ Frameworks!
 ~~~
-VueJs - ExpressJs
+Firebase Cloud Functions - ExpressJs
 ~~~
 
-### ✔ Biblioteca!
+### ✔ Base de datos!
 ~~~
-Bootstrap - BootstrapVue
+Firebase Cloud Firestore - MongoDB
 ~~~
 
-### ✔ Plataformas de desarrollo!
+### ✔ Autenticaciones!
 ~~~
-Firebase
+Firebase Authentication
 ~~~
