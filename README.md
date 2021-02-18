@@ -1,7 +1,6 @@
 # Hola! Soy Guillermo Paiva.
 
 ### ✔ Mi información:
-- <a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
 - Sitio web: [guillepaivag.web.app](https://guillepaivag.web.app)
 
 ### ✔ Mi breve descripción:
