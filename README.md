@@ -20,7 +20,7 @@ Firebase Cloud Functions - ExpressJs
 
 ### ✔ Base de datos!
 ~~~
-Firebase Cloud Firestore - MongoDB
+Firebase Cloud Firestore - MongoDB - MySQL
 ~~~
 
 ### ✔ Autenticaciones!
