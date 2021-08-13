@@ -15,7 +15,7 @@
 
 ### ✔ Front-End!
 ~~~
-HTML5 - CSS3 - JavaScript - VueJs - Bootstrap - BootstrapVue - Firebase Hosting
+JavaScript - VueJs - Bootstrap - BootstrapVue
 ~~~
 
 ### ✔ Back-End!
@@ -25,7 +25,7 @@ NodeJs - Firebase Cloud Functions - ExpressJs
 
 ### ✔ Base de datos!
 ~~~
-Firebase Cloud Firestore
+Firebase Cloud Firestore - MariaDB - MongoDB
 ~~~
 
 ### ✔ Autenticaciones!
