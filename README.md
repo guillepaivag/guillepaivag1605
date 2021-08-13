@@ -1,7 +1,9 @@
 # Hola! Soy Guillermo Paiva.
 
+<!--
 ### ✔ Mi información:
 - Sitio web: [guillepaivag.web.app](https://guillepaivag.web.app)
+-->
 
 ### ✔ Mi breve descripción:
 ~~~
