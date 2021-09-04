@@ -10,7 +10,6 @@
 1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática.
 2. Soy JavaScript Mid Level.
 3. Actualmente me estoy formando en NodeJs, MariaDB junto a Firebase.
-4. Aspiro a ser Full Stack(MEN) y JavaScript Tech Lead.
 ~~~
 
 # Conociminetos.
