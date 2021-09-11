@@ -9,29 +9,29 @@
 ~~~
 1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática.
 2. Soy desarrollador JavaScript Mid Level.
-3. Actualmente me estoy formando en NodeJs, MariaDB junto a Firebase.
+3. Actualmente me estoy formando en Node.js, MariaDB junto a Firebase.
 ~~~
 
 # Conociminetos.
 
 ### ✔ Front-End!
 ~~~
-JavaScript - VueJs - Bootstrap - BootstrapVue
+JavaScript - Vue.js - Bootstrap - BootstrapVue
 ~~~
 
 ### ✔ Back-End!
 ~~~
-NodeJs - Firebase Cloud Functions - ExpressJs
+Node.js - Firebase Cloud Functions - Express.js
 ~~~
 
 ### ✔ Base de datos!
 ~~~
-Firebase Cloud Firestore - MariaDB - MongoDB
+Firebase Cloud Firestore - MariaDB
 ~~~
 
-### ✔ Autenticaciones!
+### ✔ Firebase!
 ~~~
-Firebase Authentication
+Firebase Authentication - Firebase Cloud Firestore - Firebase Cloud Storage - Firebase Cloud Functions - Firebase Hosting
 ~~~
 
 
