@@ -7,7 +7,7 @@
 
 ### ✔ Mi breve descripción:
 ~~~
-1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática.
+1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática(IIN).
 2. Soy desarrollador JavaScript Mid Level.
 3. Actualmente me estoy formando en Node.js, MariaDB junto a Firebase.
 ~~~
