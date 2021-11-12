@@ -8,7 +8,8 @@
 ### ✔ Mi breve descripción:
 ~~~
 Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática(IIN). 
-Soy desarrollador Full Stack FEVN (Firebase, Express.js, Vue.js, Node.js). Me apaciona crear sitios web, me gusta bastante la tecnología de Firebase
+Soy desarrollador Full Stack FEVN (Firebase, Express.js, Vue.js, Node.js). 
+Me apaciona crear sitios web, me gusta bastante la tecnología de Firebase
 Ademas de eso, trabajo como programador independiente y actualmente estoy creando un proyecto de enseñanza en linea.
 ~~~
 
