@@ -7,16 +7,16 @@
 
 ### ✔ Mi breve descripción:
 ~~~
-1. Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática(IIN).
-2. Soy desarrollador JavaScript Mid Level.
-3. Actualmente me estoy formando en Node.js, MariaDB junto a Firebase.
+Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática(IIN). 
+Soy desarrollador Full Stack FEVN (Firebase, Express.js, Vue.js, Node.js). Me apaciona crear sitios web, me gusta bastante la tecnología de Firebase
+Ademas de eso, trabajo como programador independiente y actualmente estoy creando un proyecto de enseñanza en linea.
 ~~~
 
 # Conociminetos.
 
 ### ✔ Front-End!
 ~~~
-JavaScript - Vue.js - Bootstrap - BootstrapVue
+JavaScript - Vue.js - Bootstrap - BootstrapVue - Vuetify
 ~~~
 
 ### ✔ Back-End!
