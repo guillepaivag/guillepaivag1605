@@ -8,9 +8,8 @@
 ### ✔ Mi breve descripción:
 ~~~
 Soy estudiante de la Facultad Politécnica(FP-UNA) de la Universidad Nacional de Asunción(UNA) en Ingeniería Informática(IIN). 
-Soy desarrollador Full Stack FEVN (Firebase, Express.js, Vue.js, Node.js). 
+Soy desarrollador Full Stack FEVN (Firebase, Express.js, Vue.js, Node.js, TypeScript). 
 Me apasiona crear sitios web, me gusta bastante la tecnología de Firebase
-Además de eso, trabajo como programador independiente y actualmente estoy creando un proyecto de enseñanza en línea.
 ~~~
 
 # Conociminetos.
@@ -22,12 +21,12 @@ JavaScript - Vue.js - Bootstrap - BootstrapVue - Vuetify
 
 ### ✔ Back-End!
 ~~~
-Node.js - Firebase Cloud Functions - Express.js
+Node.js - Firebase Cloud Functions - Express.js - TypeScript
 ~~~
 
 ### ✔ Base de datos!
 ~~~
-Firebase Cloud Firestore - MariaDB
+Firebase Cloud Firestore - MySQL - MongoDB
 ~~~
 
 ### ✔ Firebase!
